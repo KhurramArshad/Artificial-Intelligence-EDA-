@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-All Machine and Deep Learning Projects
+All Machine Learning and Deep Learning Projects
